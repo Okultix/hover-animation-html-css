@@ -9,7 +9,7 @@ Fancy Hover Animation - Fully Created With HTML & CSS.
 ![giif](https://github.com/Okultix/hover-animation-html-css/assets/167861136/0de684d3-4fed-41ac-8871-d6ce4cfacbdd)
 
 Last Update 4.24.2024. (Image Preview):
-![giif](https://github.com/Okultix/hover-animation-html-css/assets/167861136/84f92edf-0148-4385-820d-8064f73bc3e8)
+![firefox-HEeZVEgjyr](https://github.com/Okultix/hover-animation-html-css/assets/167861136/6ee92674-e0b2-4b58-972d-8364c86ffe67)
 
 In this latest update, the color of the navigation span changes each time it lands on a new link.
 
