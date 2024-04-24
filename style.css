@@ -12,19 +12,21 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: black;
+    background: #0d0d0d;
 }
 
 /* Navigation Styles */
 nav {
+    text-shadow: 1px;
     position: relative;
     width: 524px;
     height: 50px;
-    background-color: rgb(38, 53, 67);
+    background-color: #414141;
     border-radius: 8px;
     display: flex;
     justify-content: center;
     align-items: center;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow */
 }
 
 nav a {
@@ -43,34 +45,39 @@ nav span {
     top: 0;
     left: 0;
     height: 100%;
-    background: rgba(70, 161, 161, 0.2);
     border-radius: 8px;
-    transition: left 0.5s, width 0.5s;
+    transition: left 0.5s, width 0.5s, background-color 0.5s; /* Add background-color transition */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow */
 }
 
 nav a:nth-child(1):hover ~ span {
     left: 0;
     width: 115px;
+    background-color: rgba(246, 46, 46, 0.2); /* Change background color */
 }
 
 nav a:nth-child(2):hover ~ span {
     left: 95px;
     width: 115px;
+    background-color: #6962AD; /* Change background color */
 }
 
 nav a:nth-child(3):hover ~ span {
-    left: 189px;
-    width: 110px;
+    left: 193px;
+    width: 115px;
+    background-color: rgba(70, 161, 161, 0.6); /* Change background color */
 }
 
 nav a:nth-child(4):hover ~ span {
-    left: 289px;
-    width: 110px;
+    left: 285px;
+    width: 105px;
+    background-color: rgba(217, 196, 39, 0.8); /* Change background color */
 }
 
 nav a:nth-child(5):hover ~ span {
     left: 390px;
     width: 133px;
+    background-color: rgba(70, 161, 161, 1); /* Change background color */
 }
 
                 
