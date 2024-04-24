@@ -1,6 +1,6 @@
 Fancy Hover Animation - Fully Created With HTML & CSS.
 
-![Preview Image](relative/path/to/image1.png)
+![Preview Image](https://github.com/Okultix/hover-animation-html-css/tree/main/image1.png)
 
 1. Font used in this project is Courier, but you can always change that.
 2. Everything else should be played slightly in all browsers.
